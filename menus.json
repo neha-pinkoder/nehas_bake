@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Chocolate Truffle",
+  "image": "Chocolate Truffle.png",
+  "price": "300",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Box of cupcakes",
+  "image": "Box of cupcakes.png",
+  "price": "400",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Rasmalai Cake",
+  "image": "Rasmalai Cake.png",
+  "price": "500",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "New York baked cheesecake",
+  "image": "New York baked cheesecake.png",
+  "price": "1000",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Triple Chocolate Cheesecake",
+  "image": "Triple Chocolate Cheesecake.png",
+  "price": "900",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Tropical Fruits Cake",
+  "image": "Tropical Fruits Cake.png",
+  "price": "700",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Red Velvet Cheesecake",
+  "image": "Red Velvet Cheesecake.png",
+  "price": "1100",
+  "size": "large"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Layered Passion Fruit Cheesecake",
+  "image": "Layered Passion Fruit Cheesecake.png",
+  "price": "1100",
+  "size": "medium"
+}]
